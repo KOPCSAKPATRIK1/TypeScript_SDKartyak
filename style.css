@@ -1,0 +1,26 @@
+#keresInput{
+    display: block;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 20px;
+}
+
+body{
+    background-color:wheat;
+    margin: 0;
+}
+
+#cim{
+    text-align: center;
+    font-weight: bold;
+    color: black;
+}
+
+#kereses{
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.row{
+    text-align: center;
+}
